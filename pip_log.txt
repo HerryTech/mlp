@@ -1,0 +1,15 @@
+2025-03-04T14:12:04,068 Using pip 25.0.1 from c:\Users\USER\Desktop\Projects\mlp\venv\lib\site-packages\pip (python 3.8)
+2025-03-04T14:12:04,068 Non-user install because site-packages writeable
+2025-03-04T14:12:04,068 Disabling truststore because Python version isn't 3.10+
+2025-03-04T14:12:04,121 Created temporary directory: C:\Users\USER\AppData\Local\Temp\pip-build-tracker-b13mdhmy
+2025-03-04T14:12:04,121 Initialized build tracking at C:\Users\USER\AppData\Local\Temp\pip-build-tracker-b13mdhmy
+2025-03-04T14:12:04,121 Created build tracker: C:\Users\USER\AppData\Local\Temp\pip-build-tracker-b13mdhmy
+2025-03-04T14:12:04,121 Entered build tracker: C:\Users\USER\AppData\Local\Temp\pip-build-tracker-b13mdhmy
+2025-03-04T14:12:04,122 Created temporary directory: C:\Users\USER\AppData\Local\Temp\pip-install-k1kkzi_l
+2025-03-04T14:12:04,123 Created temporary directory: C:\Users\USER\AppData\Local\Temp\pip-ephem-wheel-cache-ays_k6ez
+2025-03-04T14:12:04,128 Created temporary directory: C:\Users\USER\AppData\Local\Temp\pip-unpack-7ltfia4a
+2025-03-04T14:12:04,143 Disabling truststore because Python version isn't 3.10+
+2025-03-04T14:12:04,143 Remote version of pip: 25.0.1
+2025-03-04T14:12:04,143 Local version of pip:  25.0.1
+2025-03-04T14:12:04,143 Was pip installed by pip? True
+2025-03-04T14:12:04,143 Removed build tracker: 'C:\\Users\\USER\\AppData\\Local\\Temp\\pip-build-tracker-b13mdhmy'
